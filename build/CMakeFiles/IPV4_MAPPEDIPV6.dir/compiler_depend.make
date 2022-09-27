@@ -882,8 +882,12 @@ CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: ../main.cpp \
   /usr/include/asio/write.hpp \
   /usr/include/asio/write_at.hpp \
   /usr/include/asio/impl/write_at.hpp \
-  /usr/include/asio/placeholders.hpp
+  /usr/include/asio/placeholders.hpp \
+  /usr/include/c++/11/thread \
+  /usr/include/c++/11/bits/this_thread_sleep.h
 
+
+/usr/include/c++/11/bits/this_thread_sleep.h:
 
 /usr/include/asio/impl/write_at.hpp:
 
@@ -1088,6 +1092,8 @@ CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: ../main.cpp \
 /usr/include/asio/co_spawn.hpp:
 
 /usr/include/asio/detail/timer_scheduler_fwd.hpp:
+
+/usr/include/c++/11/thread:
 
 /usr/include/asio/read.hpp:
 
