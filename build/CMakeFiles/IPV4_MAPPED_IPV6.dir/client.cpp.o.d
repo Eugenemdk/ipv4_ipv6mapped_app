@@ -1,5 +1,5 @@
-CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: \
- /home/emedyanik/Desktop/ipv4_mappedipv6/main.cpp \
+CMakeFiles/IPV4_MAPPED_IPV6.dir/client.cpp.o: \
+ /home/emedyanik/Desktop/ipv4_mappedipv6/client.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -751,21 +751,4 @@ CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: \
  /usr/include/asio/windows/stream_handle.hpp /usr/include/asio/write.hpp \
  /usr/include/asio/write_at.hpp /usr/include/asio/impl/write_at.hpp \
  /usr/include/asio/placeholders.hpp /usr/include/c++/11/thread \
- /usr/include/c++/11/bits/this_thread_sleep.h \
- /usr/include/c++/11/experimental/executor /usr/include/c++/11/list \
- /usr/include/c++/11/bits/stl_list.h /usr/include/c++/11/bits/list.tcc \
- /usr/include/c++/11/queue /usr/include/c++/11/deque \
- /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
- /usr/include/c++/11/bits/stl_queue.h \
- /usr/include/c++/11/experimental/netfwd \
- /usr/include/c++/11/experimental/bits/net.h \
- /usr/include/c++/11/experimental/socket \
- /usr/include/c++/11/experimental/buffer \
- /usr/include/c++/11/experimental/string_view \
- /usr/include/c++/11/bits/ranges_base.h \
- /usr/include/c++/11/experimental/bits/lfts_config.h \
- /usr/include/c++/11/experimental/bits/string_view.tcc \
- /usr/include/c++/11/experimental/io_context \
- /usr/include/c++/11/forward_list /usr/include/c++/11/bits/forward_list.h \
- /usr/include/c++/11/bits/forward_list.tcc \
- /usr/include/c++/11/experimental/internet
+ /usr/include/c++/11/bits/this_thread_sleep.h

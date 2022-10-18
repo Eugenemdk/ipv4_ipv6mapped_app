@@ -1,5 +1,5 @@
-CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: \
- /home/emedyanik/Desktop/ipv4_mappedipv6/main.cpp \
+CMakeFiles/server_client_lib.dir/server_client_lib/server_program.cpp.o: \
+ /home/emedyanik/Desktop/ipv4_mappedipv6/server_client_lib/server_program.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -144,8 +144,9 @@ CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc /usr/include/asio.hpp \
- /usr/include/asio/associated_allocator.hpp \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/array \
+ /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
+ /usr/include/asio.hpp /usr/include/asio/associated_allocator.hpp \
  /usr/include/asio/detail/config.hpp /usr/include/unistd.h \
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
@@ -159,10 +160,8 @@ CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
  /usr/include/c++/11/bits/uses_allocator.h \
- /usr/include/c++/11/bits/unique_ptr.h /usr/include/c++/11/utility \
- /usr/include/c++/11/bits/stl_relops.h /usr/include/c++/11/tuple \
- /usr/include/c++/11/array /usr/include/c++/11/bits/invoke.h \
- /usr/include/c++/11/bits/shared_ptr.h \
+ /usr/include/c++/11/bits/unique_ptr.h /usr/include/c++/11/tuple \
+ /usr/include/c++/11/bits/invoke.h /usr/include/c++/11/bits/shared_ptr.h \
  /usr/include/c++/11/bits/shared_ptr_base.h \
  /usr/include/c++/11/bits/allocated_ptr.h \
  /usr/include/c++/11/bits/refwrap.h \
@@ -749,23 +748,4 @@ CMakeFiles/IPV4_MAPPEDIPV6.dir/main.cpp.o: \
  /usr/include/asio/windows/overlapped_ptr.hpp \
  /usr/include/asio/windows/random_access_handle.hpp \
  /usr/include/asio/windows/stream_handle.hpp /usr/include/asio/write.hpp \
- /usr/include/asio/write_at.hpp /usr/include/asio/impl/write_at.hpp \
- /usr/include/asio/placeholders.hpp /usr/include/c++/11/thread \
- /usr/include/c++/11/bits/this_thread_sleep.h \
- /usr/include/c++/11/experimental/executor /usr/include/c++/11/list \
- /usr/include/c++/11/bits/stl_list.h /usr/include/c++/11/bits/list.tcc \
- /usr/include/c++/11/queue /usr/include/c++/11/deque \
- /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
- /usr/include/c++/11/bits/stl_queue.h \
- /usr/include/c++/11/experimental/netfwd \
- /usr/include/c++/11/experimental/bits/net.h \
- /usr/include/c++/11/experimental/socket \
- /usr/include/c++/11/experimental/buffer \
- /usr/include/c++/11/experimental/string_view \
- /usr/include/c++/11/bits/ranges_base.h \
- /usr/include/c++/11/experimental/bits/lfts_config.h \
- /usr/include/c++/11/experimental/bits/string_view.tcc \
- /usr/include/c++/11/experimental/io_context \
- /usr/include/c++/11/forward_list /usr/include/c++/11/bits/forward_list.h \
- /usr/include/c++/11/bits/forward_list.tcc \
- /usr/include/c++/11/experimental/internet
+ /usr/include/asio/write_at.hpp /usr/include/asio/impl/write_at.hpp

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIPV4_MAPPED_IPV6.a CMakeFiles/IPV4_MAPPED_IPV6.dir/main.cpp.o CMakeFiles/IPV4_MAPPED_IPV6.dir/client.cpp.o
+/usr/bin/ranlib libIPV4_MAPPED_IPV6.a

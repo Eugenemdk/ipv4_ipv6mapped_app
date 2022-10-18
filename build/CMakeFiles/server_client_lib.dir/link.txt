@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserver_client_lib.a CMakeFiles/server_client_lib.dir/server_client_lib/client_program.cpp.o CMakeFiles/server_client_lib.dir/server_client_lib/server_program.cpp.o
+/usr/bin/ranlib libserver_client_lib.a

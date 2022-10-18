@@ -2,6 +2,13 @@
     "files.associations": {
         "*.ipp": "cpp",
         "iostream": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "executor": "cpp",
+        "socket": "cpp",
+        "io_context": "cpp",
+        "ostream": "cpp",
+        "netfwd": "cpp",
+        "internet": "cpp",
+        "buffer": "cpp"
     }
 }
